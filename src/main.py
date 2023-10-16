@@ -94,7 +94,7 @@ def scrape():
     ----------
     ideally, it will return something like "done"
     '''
-    search_items_API("all","mobiles")
+    search_items_API("all","laptops")
     response = "done"
     return response
 
